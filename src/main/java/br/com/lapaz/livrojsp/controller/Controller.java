@@ -30,7 +30,7 @@ public class Controller extends HttpServlet {
 		
 		out.println("<html>");
 		out.println("<head>");
-		out.println("<title> Projeto 03</title>");
+		out.println("<title> Projeto 01</title>");
 		out.println("</head>");
 		out.println("<body bgcolor='#CCC00' text='000044'>");
 		out.println("<h1>Dados Recebidos</h1>");
